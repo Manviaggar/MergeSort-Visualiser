@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MergeSort-Visualiser/static/css/main.34881a9b.css",
+    "main.js": "/MergeSort-Visualiser/static/js/main.63839a60.js",
+    "static/js/453.ed3810f9.chunk.js": "/MergeSort-Visualiser/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/MergeSort-Visualiser/index.html",
+    "main.34881a9b.css.map": "/MergeSort-Visualiser/static/css/main.34881a9b.css.map",
+    "main.63839a60.js.map": "/MergeSort-Visualiser/static/js/main.63839a60.js.map",
+    "453.ed3810f9.chunk.js.map": "/MergeSort-Visualiser/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34881a9b.css",
+    "static/js/main.63839a60.js"
+  ]
+}
